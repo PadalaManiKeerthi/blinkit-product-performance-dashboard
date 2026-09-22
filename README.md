@@ -13,7 +13,7 @@ Analyzed 4.97M sales data to find best & worst performing products.
 Power BI | DAX (SUMX) | Data Visualization
 
 ## 📸 Dashboard
-![Dashboard](dashboard (2).png)
+![Dashboard](dashboard.png)
 
 ## 👨‍💻 Author
 Mani Keerthi Padala - BCA Data Science Student 
