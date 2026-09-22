@@ -17,4 +17,8 @@ Power BI | DAX (SUMX) | Data Visualization
 
 ## 👨‍💻 Author
 Mani Keerthi Padala - BCA Data Science Student 
-LinkedIn: linkedin.com/in/mani-keerthi-padala-1358543b0
+
+## 🔗 Links
+- GitHub Repo: https://github.com/PadalaManiKeerthi/blinkit-product-performance-dashboard
+- LinkedIn Profile: https://www.linkedin.com/in/mani-keerthi-padala-1358543b0
+
